@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rTuQjc5dX+vhQI3HebCER2RzgggwXvMB5rZMK7cqBc8=",
+  "Source": "OTP_System_Server",
+  "BasePath": "_content/OTP_System_Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

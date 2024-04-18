@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB0C9F1-6AC4-4AE4-A4DD-D992796F447A}|..\\OTP_System_Tests\\OTP_System_Tests.csproj|c:\\users\\alexandra\\desktop\\otp_system_webapp\\otp_system_tests\\encyptiontests\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB0C9F1-6AC4-4AE4-A4DD-D992796F447A}|..\\OTP_System_Tests\\OTP_System_Tests.csproj|c:\\users\\alexandra\\desktop\\otp_system_webapp\\otp_system_tests\\usertests\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB0C9F1-6AC4-4AE4-A4DD-D992796F447A}|..\\OTP_System_Tests\\OTP_System_Tests.csproj|c:\\users\\alexandra\\desktop\\otp_system_webapp\\otp_system_tests\\usercontrollertests\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB0C9F1-6AC4-4AE4-A4DD-D992796F447A}|..\\OTP_System_Tests\\OTP_System_Tests.csproj|c:\\users\\alexandra\\desktop\\otp_system_webapp\\otp_system_tests\\totptests\\totp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB0C9F1-6AC4-4AE4-A4DD-D992796F447A}|..\\OTP_System_Tests\\OTP_System_Tests.csproj|c:\\users\\alexandra\\desktop\\otp_system_webapp\\otp_system_tests\\encyptiontests\\simpleencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B439FBA4-034A-48C6-9D45-D9310408EBFF}|OTP_System_Server.csproj|c:\\users\\alexandra\\desktop\\otp_system_webapp\\otp_system_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B439FBA4-034A-48C6-9D45-D9310408EBFF}|OTP_System_Server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B439FBA4-034A-48C6-9D45-D9310408EBFF}|OTP_System_Server.csproj|c:\\users\\alexandra\\desktop\\otp_system_webapp\\otp_system_server\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B439FBA4-034A-48C6-9D45-D9310408EBFF}|OTP_System_Server.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B439FBA4-034A-48C6-9D45-D9310408EBFF}|OTP_System_Server.csproj|c:\\users\\alexandra\\desktop\\otp_system_webapp\\otp_system_server\\services\\totpgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B439FBA4-034A-48C6-9D45-D9310408EBFF}|OTP_System_Server.csproj|solutionrelative:services\\totpgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B439FBA4-034A-48C6-9D45-D9310408EBFF}|OTP_System_Server.csproj|c:\\users\\alexandra\\desktop\\otp_system_webapp\\otp_system_server\\services\\simpleencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B439FBA4-034A-48C6-9D45-D9310408EBFF}|OTP_System_Server.csproj|solutionrelative:services\\simpleencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B439FBA4-034A-48C6-9D45-D9310408EBFF}|OTP_System_Server.csproj|c:\\users\\alexandra\\desktop\\otp_system_webapp\\otp_system_server\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B439FBA4-034A-48C6-9D45-D9310408EBFF}|OTP_System_Server.csproj|solutionrelative:services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B439FBA4-034A-48C6-9D45-D9310408EBFF}|OTP_System_Server.csproj|c:\\users\\alexandra\\desktop\\otp_system_webapp\\otp_system_server\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B439FBA4-034A-48C6-9D45-D9310408EBFF}|OTP_System_Server.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B439FBA4-034A-48C6-9D45-D9310408EBFF}|OTP_System_Server.csproj|c:\\users\\alexandra\\desktop\\otp_system_webapp\\otp_system_server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B439FBA4-034A-48C6-9D45-D9310408EBFF}|OTP_System_Server.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB0C9F1-6AC4-4AE4-A4DD-D992796F447A}|..\\OTP_System_Tests\\OTP_System_Tests.csproj|c:\\users\\alexandra\\desktop\\otp_system_webapp\\otp_system_tests\\otp_system_tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B439FBA4-034A-48C6-9D45-D9310408EBFF}|OTP_System_Server.csproj|c:\\users\\alexandra\\desktop\\otp_system_webapp\\otp_system_server\\otp_system_server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B439FBA4-034A-48C6-9D45-D9310408EBFF}|OTP_System_Server.csproj|solutionrelative:otp_system_server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TotpGeneratorService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Server\\Services\\TotpGeneratorService.cs",
+              "RelativeDocumentMoniker": "Services\\TotpGeneratorService.cs",
+              "ToolTip": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Server\\Services\\TotpGeneratorService.cs",
+              "RelativeToolTip": "Services\\TotpGeneratorService.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T18:55:37.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SimpleEncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Server\\Services\\SimpleEncryptionService.cs",
+              "RelativeDocumentMoniker": "Services\\SimpleEncryptionService.cs",
+              "ToolTip": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Server\\Services\\SimpleEncryptionService.cs",
+              "RelativeToolTip": "Services\\SimpleEncryptionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:51:47.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Server\\Services\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "Services\\EncryptionService.cs",
+              "ToolTip": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Server\\Services\\EncryptionService.cs",
+              "RelativeToolTip": "Services\\EncryptionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:36:00.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:19:15.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Encryption.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Tests\\EncyptionTests\\Encryption.cs",
+              "RelativeDocumentMoniker": "..\\OTP_System_Tests\\EncyptionTests\\Encryption.cs",
+              "ToolTip": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Tests\\EncyptionTests\\Encryption.cs",
+              "RelativeToolTip": "..\\OTP_System_Tests\\EncyptionTests\\Encryption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:09:35.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Server\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Server\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:53:08.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimpleEncryption.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Tests\\EncyptionTests\\SimpleEncryption.cs",
+              "RelativeDocumentMoniker": "..\\OTP_System_Tests\\EncyptionTests\\SimpleEncryption.cs",
+              "ToolTip": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Tests\\EncyptionTests\\SimpleEncryption.cs",
+              "RelativeToolTip": "..\\OTP_System_Tests\\EncyptionTests\\SimpleEncryption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:49:49.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Totp.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Tests\\TotpTests\\Totp.cs",
+              "RelativeDocumentMoniker": "..\\OTP_System_Tests\\TotpTests\\Totp.cs",
+              "ToolTip": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Tests\\TotpTests\\Totp.cs",
+              "RelativeToolTip": "..\\OTP_System_Tests\\TotpTests\\Totp.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwBAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:59:04.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Tests\\UserControllerTests\\User.cs",
+              "RelativeDocumentMoniker": "..\\OTP_System_Tests\\UserControllerTests\\User.cs",
+              "ToolTip": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Tests\\UserControllerTests\\User.cs",
+              "RelativeToolTip": "..\\OTP_System_Tests\\UserControllerTests\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T18:04:48.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Tests\\UserTests\\User.cs",
+              "RelativeDocumentMoniker": "..\\OTP_System_Tests\\UserTests\\User.cs",
+              "ToolTip": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Tests\\UserTests\\User.cs",
+              "RelativeToolTip": "..\\OTP_System_Tests\\UserTests\\User.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAA7wE8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:04:40.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Server\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Server\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T18:09:42.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Server\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Server\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:17:43.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OTP_System_Tests",
+              "DocumentMoniker": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Tests\\OTP_System_Tests.csproj",
+              "RelativeDocumentMoniker": "..\\OTP_System_Tests\\OTP_System_Tests.csproj",
+              "ToolTip": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Tests\\OTP_System_Tests.csproj",
+              "RelativeToolTip": "..\\OTP_System_Tests\\OTP_System_Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T15:53:03.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OTP_System_Server",
+              "DocumentMoniker": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Server\\OTP_System_Server.csproj",
+              "RelativeDocumentMoniker": "OTP_System_Server.csproj",
+              "ToolTip": "C:\\Users\\Alexandra\\Desktop\\OTP_System_WebApp\\OTP_System_Server\\OTP_System_Server.csproj",
+              "RelativeToolTip": "OTP_System_Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T15:52:59.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

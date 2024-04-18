@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OTP_System_Server.props" />
+</Project>
